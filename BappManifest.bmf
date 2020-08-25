@@ -3,10 +3,10 @@ ExtensionType: 2
 Name: Quoted-Printable Parser
 RepoName: quoted-printable-parser
 ScreenVersion: 1.0
-SerialVersion: 2
+SerialVersion: 3
 MinPlatformVersion: 0
 ProOnly: True
-Author: Hxzeroone
+Author: Hx01
 ShortDescription: Parses Content-Transfer-Encoding: quoted-printable emails received in Burpcollaborator's SMTP
 EntryPoint: quopri.py
 BuildCommand: 
