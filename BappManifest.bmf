@@ -1,0 +1,12 @@
+Uuid: 80e1f644901f4f2c8905b77c5fa22fb1
+ExtensionType: 2
+Name: Quoted-Printable Parser
+RepoName: quoted-printable-parser
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: True
+Author: Hxzeroone
+ShortDescription: Parses Content-Transfer-Encoding: quoted-printable emails recieved in Burpcollaborator's SMTP
+EntryPoint: quopri.py
+BuildCommand: 
